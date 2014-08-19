@@ -15,5 +15,6 @@ DropBox folder at https://www.dropbox.com/sh/a3k8rm4nijg6wvp/AADRtkUZK_ZQnwYcuKq
 * [Slides](https://github.com/ameasure/autocoding-class/blob/master/Lecture%203.pptx)
 
 ## Class 4 (Machine Learning)
+* [Notes](https://github.com/ameasure/autocoding-class/blob/master/machine%20learning.ipynb)
 * Slides
-* Notes
+

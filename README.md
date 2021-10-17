@@ -1,3 +1,3 @@
 Autocoding Class
 ================
-Notes from a class on machine learning autocoding for official statistics originally taught in 2014.
+Resources from a class on machine learning autocoding for official statistics originally taught in 2014. The best place to start is [here](https://github.com/ameasure/autocoding-class/blob/master/machine_learning.ipynb).
